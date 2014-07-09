@@ -1,6 +1,7 @@
 caya
-====
+-come as you are
 
-Electronic Healthcare Records
+Functions:
 
-caya = "come as you are"
+-Store medical results
+-Transmit data to printers via SMS

@@ -1,0 +1,6 @@
+setup.py
+caya.egg-info/PKG-INFO
+caya.egg-info/SOURCES.txt
+caya.egg-info/dependency_links.txt
+caya.egg-info/top_level.txt
+caya.egg-info/zip-safe
