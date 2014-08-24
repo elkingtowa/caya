@@ -93,4 +93,3 @@ class InitialsField(CharField):
         field_class = "django.db.models.fields.CharField"
         args, kwargs = introspector(self)
         return (field_class, args, kwargs)
-
